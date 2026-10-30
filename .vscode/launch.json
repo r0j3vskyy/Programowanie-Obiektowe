@@ -1,0 +1,343 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestTrain",
+            "request": "launch",
+            "mainClass": "Zestawy2026.Zestaw.TestTrain",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "Utils",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr3.K14.Utils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "Utils",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr3.K13.Utils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "Utils",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr3.K12.Utils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "Utils",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr3.K11.Utils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestStudent",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.CloneableArrayList.TestStudent",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestSong",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.ZgodnoscEqHashComp.TestSong",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestSong",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.ComparableRecord.TestSong",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestBuildingMaterial",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.StaticNonStatic.TestBuildingMaterial",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestSong",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.ComparablePodwojneKryterium.TestSong",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestImmutableYachtPosition",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.NiezmienniczaKlasa.TestImmutableYachtPosition",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestComparator",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.RekordComparator.TestComparator",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestKitchen",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.CloneableRef.TestKitchen",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestUtils",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP14.checking.TestUtils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestUtils",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP14.music.TestUtils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestImmutableBuilding",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP14.position.TestImmutableBuilding",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestFilmScreening",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP14.filmmanagement.TestFilmScreening",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestUtils",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP13.alg.TestUtils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestSong",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP13.checking.TestSong",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestSong",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP13.music.TestSong",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestAirplanes",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP13.airplanes.TestAirplanes",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestArtGallery",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.Singleton.TestArtGallery",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestComparator",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.DoubleComparator.TestComparator",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestStudent",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.Cloneable.TestStudent",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "VehicleTest",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr2.Interfejsy.VehicleTest",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestHospital",
+            "request": "launch",
+            "mainClass": "PrzykladoweZadania.Nr1.Najprostsze.TestHospital",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestLimit",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH14.limitVerifier.TestLimit",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestAthlete",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH14.sports.TestAthlete",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestProcessing",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH13.dataProcessing.TestProcessing",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestRelation",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH13.relationcheck.TestRelation",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestBird",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH13.birds.TestBird",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestSeries",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH12.tvseries.TestSeries",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestUtils",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH11.alg.TestUtils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestUtils",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH11.shifting.TestUtils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestBoardgame",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH11.boardgame.TestBoardgame",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestLiterature",
+            "request": "launch",
+            "mainClass": "Zestawy2025.ZestawH11.literature.TestLiterature",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestUtils",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP12.algorithm.TestUtils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestUtils",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP12.plprogramowanieGeneryczne.TestUtils",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestShipComparer",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP12.shipping.TestShipComparer",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestSport",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP12.sports.TestSport",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "TestShop",
+            "request": "launch",
+            "mainClass": "Zestawy2026.ZestawP11.commerce.TestShop",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "zadL2",
+            "request": "launch",
+            "mainClass": "Zestaw9.zadL2",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "zadK1",
+            "request": "launch",
+            "mainClass": "Zestaw9.zadK1",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "zadF2",
+            "request": "launch",
+            "mainClass": "Zestaw9.zadF2",
+            "projectName": "Programowanie Obiektowe_9cb8bd1"
+        },
+        {
+            "type": "java",
+            "name": "zadE1",
+            "request": "launch",
+            "mainClass": "Zestaw9.zadE1",
+            "projectName": "Programowanie Obiektowe_25dc6318"
+        },
+        {
+            "type": "java",
+            "name": "Zestaw8",
+            "request": "launch",
+            "mainClass": "Zestaw8.Zestaw8",
+            "projectName": "Programowanie Obiektowe_25dc6318"
+        },
+        {
+            "type": "java",
+            "name": "Zestaw7",
+            "request": "launch",
+            "mainClass": "Zestaw7.Zestaw7",
+            "projectName": "Programowanie Obiektowe_25dc6318"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+# Artefakty kompilacji Java
+build/
+bin/
+*.class
+
+# Ustawienia lokalne IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+.idea/
+*.iml
+
+# Pliki systemowe
+Thumbs.db
+.DS_Store
+.git/
